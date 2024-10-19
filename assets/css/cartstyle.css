@@ -1,0 +1,48 @@
+.navbar{
+    height: 13vh;
+}
+
+
+
+/* carousel */
+.carousel-item img{
+    height: 500px;
+}
+
+
+/*card*/
+
+.card button{
+    width: 300px;
+    position: relative;
+    top: 1vh;
+}
+
+/* latest products */
+.product_img {
+    position: relative;
+}
+
+.backtop {
+    position: fixed;  
+    bottom: 20px;     
+    right: 20px;      
+    z-index: 1000;     
+    transition: opacity 0.3s; 
+}
+
+.show {
+    display: block; 
+}
+
+
+.btn {
+    background-color: rgb(255, 255, 255); 
+    border: 1px solid #000;  
+}
+
+
+.btn {
+    background-color: rgb(255, 255, 255); 
+    border: 1px solid #000;  
+}
